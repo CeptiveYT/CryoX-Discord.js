@@ -19,6 +19,9 @@ client.on("message", message => {
     }
 })
 
+
+
+//episode 2
 //embed
 client.on('message', message => {
     if (message.content === '!test'){
